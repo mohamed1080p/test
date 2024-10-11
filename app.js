@@ -1,1 +1,1 @@
-alert("Attack on Titan is the best");
+alert("Attack on Titan is the best of all time");
